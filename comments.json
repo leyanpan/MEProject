@@ -1,0 +1,53 @@
+[
+  {
+    "name" : "GERALDINE RICARDO",
+    "title" :  "15-year migraine sufferer",
+    "comment" : "Now, since having Migraine Escape, my confidence levels and everything have changed, because you've got it in your back pocket or wherever you've got it - in your purse. If you feel any sort of symptoms coming, you hit it on the head before it even goes into a full migraine and it's just wonderful.",
+    "location" : {
+      "lat" : -35,
+      "lng" : 145
+    },
+    "picture" : "home-testimonial-1-avatar.jpg"
+  },
+  {
+    "name" : "VANESSA TINGCOMBE",
+    "title" :  "3-5 classic migraines per week sufferer",
+    "comment" : "Now I find myself more energised and happier...I couldn't tell you when I last had a headache.",
+    "location" : {
+      "lat" : -21,
+      "lng" : 137
+    },
+    "picture" : "home-testimonial-2-avatar.jpg"
+  },
+  {
+    "name" : "MARGUERITE WHITE",
+    "title" :  "Classic migraine (aura) sufferer",
+    "comment" : "I did have a relapse of getting headaches after a poor diet choice for a weekend, I was developing the bad headache and then used the ME (little bit of what I had left) and it relieved the headache within the hour.",
+    "location" : {
+      "lat" : -25,
+      "lng" : 118
+    },
+    "picture" : "home-testimonial-3-avatar.jpg"
+  },
+  {
+    "name" : "EMMA FRASER",
+    "title" :  "Classic migraine (aura) sufferer",
+    "comment" : "I actually had the aura (blurry vision) I get with a migraine at 5pm this afternoon whilst at the playground with the kids - raced home to apply the treatment and no headache eventuated. I did lie down for a half hour just because I felt exhausted but now, 5 hours later it is just a blip in my day.",
+    "location" : {
+      "lat" : -27,
+      "lng" : 133
+    },
+    "picture" : "home-testimonial-4-avatar.jpg"
+  },
+  {
+    "name" : "Sam",
+    "title" :  "Chronic migraine sufferer",
+    "comment" : "I was getting migraines 3 times a week and I work...and travel a lot. I have now been able to work easily in stressful situations and not been sick. \n\nCompletely changed my life from nearly having to leave my job to being able to take charge of my task force and have a completely migraine free day/week/month.",
+    "location" : {
+      "lat" : -31,
+      "lng" : 147
+    },
+    "picture" : "home-testimonial-4-avatar.jpg"
+  }
+
+]
